@@ -15,7 +15,7 @@
       <configuration />
     </facet>
   </component>
-  <component name="NewModuleRootManager" inherit-compiler-output="false">
+  <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/out/production/HelloSpring" />
     <output-test url="file://$MODULE_DIR$/out/test/HelloSpring" />
     <exclude-output />
@@ -24,8 +24,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Spring-4.1.6.RELEASE" level="project" />
-    <orderEntry type="library" name="Spring MVC-4.1.6.RELEASE" level="project" />
+    <orderEntry type="library" name="Spring-4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" name="Spring MVC-4.3.9.RELEASE" level="project" />
     <orderEntry type="library" name="aopalliance-1.0" level="project" />
     <orderEntry type="library" name="jstl" level="project" />
     <orderEntry type="library" name="standard" level="project" />
